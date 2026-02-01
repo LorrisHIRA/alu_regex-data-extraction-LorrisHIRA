@@ -1,0 +1,15 @@
+***** Extracted User Emails *****
+- a***@admin.com
+- s***@Hira.com
+
+===== Extracted URLs =====
+- https://www.HIRAlorrsi.com
+- https://www.LorrisHIRA.com
+
+***** Extracted Phone Numbers *****
+No valid phone numbers found.
+
+===== Extracted Credit Cards =====
+- **** **** **** 1111
+- **** **** **** 3333
+- **** **** **** 9994
