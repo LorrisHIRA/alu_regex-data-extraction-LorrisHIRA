@@ -27,9 +27,11 @@ url_pattern = re.compile(
 # so on the phone numbers i used the numbers from US formats
 # examples : (123) 456-7890, 123-456-7890, 123.456.7890
 # Rejects letters or too-short/long numbers
+
 phone_pattern = re.compile(
-    r'\b(?:\(\d{3}\)\s?|\d{3}[-.\s])\d{3}[-.\s]\d{4}\b'
+      r'\(\d{3}\)\s\d{3}-\d{4}'
 )
+
 
 # so on  Credit cards i used a decision where it shouldd have 16 digits only, spaces or even dashes 
 # and it will ignore obviously invalid stuff like letters in the number
